@@ -191,3 +191,8 @@ body {
   padding-left: 25px;
   background-image: url("img/icon-phone-footer.svg");
 }
+.avatar {
+  width: 500px;
+  height: 500px;
+  border-radius: 100%;
+}
