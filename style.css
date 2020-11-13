@@ -127,9 +127,6 @@ body {
 
 .user-image {
   margin: 0 0 32px;
-  position: absolute;
-  top: 0;
-  left: 0;
 }
 
 .user-image img {
@@ -343,10 +340,6 @@ body {
 
 .project-image {
   z-index: 1;
-  position: absolute;
-  margin: 0;
-  top: 0;
-  left: 0;
 }
 
 .project-image img {
